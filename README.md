@@ -17,27 +17,84 @@
 
 ## ⚡ ¿QUIÉN SOY?
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="280"/>
+<div align="center">
 
-```yaml
-┌─[ KINDER@UCTIKRAY ]─[ ~/perfil ]
-└──╼ $ cat about_me.yml
-
-nombre:      Thomas Arismendi
-apodo:       "KINDER" 💜
-rol:         Programador + Mentor
-equipo:      UCTIKRAY Innovation & Robotics
-colegio:     Unión Colombia
-grado:       Décimo
-ubicación:   Colombia 🇨🇴
-experiencia: 1 año en UCTIKRAY
-pasiones:    [Programación, Robótica, Competencias]
-meta:        Ingeniería en Software
-status:      aprendiendo + enseñando
-motto:       "Código limpio, robots veloces"
+```
+████████╗██╗  ██╗ ██████╗ ███╗   ███╗ █████╗ ███████╗
+╚══██╔══╝██║  ██║██╔═══██╗████╗ ████║██╔══██╗██╔════╝
+   ██║   ███████║██║   ██║██╔████╔██║███████║███████╗
+   ██║   ██╔══██║██║   ██║██║╚██╔╝██║██╔══██║╚════██║
+   ██║   ██║  ██║╚██████╔╝██║ ╚═╝ ██║██║  ██║███████║
+   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝
+                        "KINDER" 💜
 ```
 
-<br clear="right"/>
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🧑‍💻 IDENTIDAD
+
+**Thomas Arismendi**
+
+🎭 Alias: `KINDER`
+
+📍 Colombia 🇨🇴
+
+🎓 Décimo grado
+
+🏫 Unión Colombia
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 ROL
+
+**Programador + Mentor**
+
+🤖 Dev de robots
+
+🎓 Entrenador de nuevos
+
+🏆 Competidor
+
+⏱️ 1 año en UCTIKRAY
+
+</td>
+<td align="center" width="33%">
+
+### 🎯 MISIÓN
+
+**Ingeniería en Software**
+
+💜 Pasión: Robótica
+
+🔧 Skills: Python · IoT
+
+📡 Team: UCTIKRAY
+
+⚡ Status: Learning
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=700&lines=%22C%C3%B3digo+limpio%2C+robots+veloces%22+%F0%9F%92%9C;%22El+futuro+se+programa%2C+no+se+espera%22+%F0%9F%9A%80;%22KINDER+on+the+code%22+%E2%9A%A1" alt="Quotes"/>
+
+</div>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/PYTHON-0D0D0D?style=for-the-badge&logo=python&logoColor=B388FF&labelColor=1a1a1a)
+![ROBOTICS](https://img.shields.io/badge/ROBOTICS-0D0D0D?style=for-the-badge&logo=arduino&logoColor=B388FF&labelColor=1a1a1a)
+![UCTIKRAY](https://img.shields.io/badge/UCTIKRAY-0D0D0D?style=for-the-badge&logo=instagram&logoColor=B388FF&labelColor=1a1a1a)
+![KINDER](https://img.shields.io/badge/KINDER-6a0dad?style=for-the-badge&logoColor=white&labelColor=1a1a1a)
+
+</div>
 
 ---
 
