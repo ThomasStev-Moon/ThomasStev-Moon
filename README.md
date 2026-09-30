@@ -1,125 +1,38 @@
-¿<h1 align="center">¡Hola! 👋 Soy Thomas Arismendi</h1>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--      THOMAS ARISMENDI · UCTIKRAY · STREETWEAR EDITION      -->
+<!--           Morado · Negro · Gris · Programador & Mentor      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<h3 align="center">🎓 Estudiante de décimo grado · 💻 Apasionado por la programación y la robótica · 🚀 Futuro Ingeniero de Software</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Bienvenido+a+mi+perfil+de+GitHub;Estudiante+del+Colegio+Uni%C3%B3n+Colombia;Amante+de+la+programaci%C3%B3n+y+la+rob%C3%B3tica;Futuro+Ingeniero+en+Software" alt="Typing SVG" />
-</p>
+<!-- Banner tipo streetwear -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:6a0dad,100:0D0D0D&height=220&section=header&text=THOMAS%20ARISMENDI&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=DEV%20%C2%B7%20ROBOTICS%20%C2%B7%20UCTIKRAY&descAlignY=60&descSize=22&animation=twinkling" alt="banner"/>
 
----
+<!-- Texto animado -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=B388FF&center=true&vCenter=true&width=800&lines=%3E+init+ThomasArismendi.exe;%3E+role%3A+Programador+%2B+Mentor+en+UCTIKRAY;%3E+skill%3A+robots%2C+IoT%2C+Python%2C+competencias;%3E+mission%3A+Ingenier%C3%ADa+en+Software;%3E+status%3A+always+learning_" alt="Typing SVG"/>
 
-## 🙋‍♂️ Sobre mí
+<!-- Separador animado -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 
-```python
-class ThomasArismendi:
-    def __init__(self):
-        self.nombre = "Thomas Arismendi"
-        self.grado = "Décimo"
-        self.colegio = "Unión Colombia"
-        self.pasiones = ["Programación", "Robótica", "Tecnología"]
-        self.meta = "Ingeniería en Software"
-        self.pais = "Colombia 🇨🇴"
-```
-
-- 🎓 Actualmente cursando **décimo grado** en el **Colegio Unión Colombia**
-- 💻 Apasionado por la **programación** y la **robótica**
-- 🚀 Mi meta es estudiar **Ingeniería en Software**
-- 🌱 Siempre aprendiendo nuevas tecnologías
-- ⚡ Me encanta crear soluciones que ayuden a las personas
+</div>
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## ⚡ QUIÉN SOY
 
-### Lenguajes
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="280"/>
 
-### Herramientas y plataformas
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-</p>
+```yaml
+┌─[ THOMAS@UCTIKRAY ]─[ ~/perfil ]
+└──╼ $ cat about_me.yml
 
-### Ciencia de datos
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-</p>
-
----
-
-## 📊 Mis estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThomasStev-Moon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasStev-Moon&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasStev-Moon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-</p>
-
----
-
-## 🏆 Proyectos destacados
-
-### 🏦 Coink Analytics
-> Dashboard interactivo en Streamlit que analiza los depósitos realizados en máquinas OINK y clasifica a los usuarios según su comportamiento de ahorro con una métrica propia (**Coink Score**).
-
-**Tecnologías:** Python · Streamlit · Pandas · Matplotlib · Seaborn
-
-🔗 [Ver repositorio](https://github.com/ThomasStev-Moon/ACTIVIDAD-6)
-
----
-
-### 🎭 Chatbot con Personalidad
-> Chatbot desarrollado en Python + Streamlit que adopta la personalidad de 5 compañeros de clase, con soporte para **chat escrito** y **chat de voz** (entrada por micrófono y salida por altavoz).
-
-**Tecnologías:** Python · Streamlit · pyttsx3 · SpeechRecognition · PyAudio
-
-🔗 [Ver repositorio](https://github.com/ThomasStev-Moon/ACTIVIDAD-6)
-
----
-
-## 📈 Actividad reciente
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThomasStev-Moon&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</p>
-
----
-
-## 📫 Conéctate conmigo
-
-<p align="center">
-  <a href="https://github.com/ThomasStev-Moon">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:tu-correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThomasStev-Moon&label=Visitas%20al%20perfil&color=00E5FF&style=for-the-badge" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <i>"El mejor momento para plantar un árbol fue hace 20 años. El segundo mejor momento es ahora."</i><br>
-  <b>— Proverbio chino</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer"/>
-</p>
+nombre:      Thomas Arismendi
+rol:         Programador + Mentor
+equipo:      UCTIKRAY Innovation & Robotics
+colegio:     Unión Colombia
+grado:       Décimo
+ubicación:   Colombia 🇨🇴
+pasiones:    [Programación, Robótica, Competencias]
+meta:        Ingeniería en Software
+status:      aprendiendo + enseñando
+motto:       "Código limpio, robots veloces"
