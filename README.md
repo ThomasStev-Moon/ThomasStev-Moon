@@ -210,7 +210,7 @@
 <a href="https://github.com/ThomasStev-Moon">
 <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=B388FF&labelColor=1a1a1a"/>
 </a>
-<a href="mailto:tu-correo@ejemplo.com">
+<a href="mailto: thomasarismendi18@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=B388FF&labelColor=1a1a1a"/>
 </a>
 <a href="https://www.instagram.com/uctikray.uc/">
